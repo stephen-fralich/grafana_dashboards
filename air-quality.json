@@ -2,7 +2,7 @@
   "apiVersion": "dashboard.grafana.app/v2",
   "kind": "Dashboard",
   "metadata": {
-    "name": "ddfkwgnae1dds0f"
+    "name": "dffme1vimdemtcc"
   },
   "spec": {
     "annotations": [
@@ -110,7 +110,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -199,7 +199,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -290,7 +290,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -369,7 +369,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -452,7 +452,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -535,7 +535,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -618,7 +618,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -701,7 +701,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -784,7 +784,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -837,7 +837,7 @@
                     "axisCenteredZero": false,
                     "axisColorMode": "text",
                     "axisLabel": "",
-                    "axisPlacement": "auto",
+                    "axisPlacement": "right",
                     "barAlignment": 0,
                     "barWidthFactor": 0.6,
                     "drawStyle": "line",
@@ -887,7 +887,7 @@
                 "legend": {
                   "calcs": [],
                   "displayMode": "list",
-                  "placement": "right",
+                  "placement": "bottom",
                   "showLegend": true
                 },
                 "tooltip": {
@@ -897,7 +897,7 @@
                 }
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -950,7 +950,7 @@
                     "axisCenteredZero": false,
                     "axisColorMode": "text",
                     "axisLabel": "",
-                    "axisPlacement": "auto",
+                    "axisPlacement": "right",
                     "barAlignment": 0,
                     "barWidthFactor": 0.6,
                     "drawStyle": "line",
@@ -1008,7 +1008,7 @@
                 "legend": {
                   "calcs": [],
                   "displayMode": "list",
-                  "placement": "right",
+                  "placement": "bottom",
                   "showLegend": true
                 },
                 "tooltip": {
@@ -1018,7 +1018,7 @@
                 }
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -1071,7 +1071,7 @@
                     "axisCenteredZero": false,
                     "axisColorMode": "text",
                     "axisLabel": "",
-                    "axisPlacement": "auto",
+                    "axisPlacement": "right",
                     "barAlignment": 0,
                     "barWidthFactor": 0.6,
                     "drawStyle": "line",
@@ -1125,7 +1125,7 @@
                 "legend": {
                   "calcs": [],
                   "displayMode": "list",
-                  "placement": "right",
+                  "placement": "bottom",
                   "showLegend": true
                 },
                 "tooltip": {
@@ -1135,7 +1135,7 @@
                 }
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -1207,7 +1207,7 @@
                     "axisCenteredZero": false,
                     "axisColorMode": "text",
                     "axisLabel": "",
-                    "axisPlacement": "auto",
+                    "axisPlacement": "right",
                     "barAlignment": 0,
                     "barWidthFactor": 0.6,
                     "drawStyle": "line",
@@ -1261,7 +1261,7 @@
                 "legend": {
                   "calcs": [],
                   "displayMode": "list",
-                  "placement": "right",
+                  "placement": "bottom",
                   "showLegend": true
                 },
                 "tooltip": {
@@ -1271,7 +1271,7 @@
                 }
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -1362,7 +1362,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -1453,7 +1453,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -1544,7 +1544,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       },
@@ -1635,7 +1635,7 @@
                 "wideLayout": true
               }
             },
-            "version": "13.1.0-24779284961"
+            "version": "13.1.0-25668120414"
           }
         }
       }
